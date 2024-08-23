@@ -1,2 +1,3 @@
 .idea
 music_controller/db.sqlite3
+__pycache__
